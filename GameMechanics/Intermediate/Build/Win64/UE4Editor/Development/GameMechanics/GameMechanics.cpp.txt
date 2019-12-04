@@ -1,2 +1,2 @@
-C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
-c:\repo\cynthiagame\thirdpersongame\thirdpersongame\gamemechanics\source\gamemechanics\GameMechanics.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics\GameMechanics.h

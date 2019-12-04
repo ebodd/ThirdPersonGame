@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics
-/I C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Source
-/I C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Source\GameMechanics
+/I C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics
+/I C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source
+/I C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -432,18 +432,17 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I Runtime\AugmentedReality
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Source\GameMechanics\GameMechanicsGameMode.cpp"
-/FI"C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h"
-/Fo"C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\GameMechanicsGameMode.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics\GameMechanicsGameMode.cpp"
+/FI"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h"
+/Fo"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\GameMechanicsGameMode.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,13 +1,13 @@
-C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
-c:\repo\cynthiagame\thirdpersongame\thirdpersongame\gamemechanics\source\gamemechanics\GameMechanicsGameMode.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics\GameMechanicsGameMode.generated.h
-c:\repo\cynthiagame\thirdpersongame\thirdpersongame\gamemechanics\source\gamemechanics\GameMechanicsCharacter.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Repo\CynthiaGame\ThirdPersonGame\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics\GameMechanicsCharacter.generated.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics\GameMechanicsGameMode.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics\GameMechanicsGameMode.generated.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics\GameMechanicsCharacter.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\asus\Documents\Ethan\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics\GameMechanicsCharacter.generated.h
