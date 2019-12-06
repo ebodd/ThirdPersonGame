@@ -1,3 +1,4 @@
 C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics\GameMechanics.Build.cs
+C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Source\AiPresets\AiPresets.Build.cs
 C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanics.Target.cs
 C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Source\GameMechanicsEditor.Target.cs

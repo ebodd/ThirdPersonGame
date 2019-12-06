@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GameMechanics.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{079F6430-DF81-42E0-BABC-A287903B19E6}</UniqueIdentifier>
+      <UniqueIdentifier>{499BD965-B32F-41D1-A1D4-78FC0138CD17}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameMechanics.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{0437D6EA-43EB-4CB8-A192-3B499015C032}</UniqueIdentifier>
+      <UniqueIdentifier>{F15B5D80-D403-48CB-AF7B-08B98502DB43}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,8 +29,50 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{38B36C17-E0C7-4549-B694-C71F32751C0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AiPresets">
+      <UniqueIdentifier>{4DC5220C-2F10-4518-BF41-DD786345CC37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AiPresets\Source">
+      <UniqueIdentifier>{171D42CC-602C-4E73-A790-0331D041D4AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AiPresets\Source\AiPresets">
+      <UniqueIdentifier>{DE37E1E2-11B2-4D90-834C-CD3BA0CF9CA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AiPresets\Source\AiPresets\AiPresets.Build.cs">
+      <Filter>Plugins\AiPresets\Source\AiPresets</Filter>
+    </None>
+    <Filter Include="Plugins\AiPresets\Source\AiPresets\Private">
+      <UniqueIdentifier>{FAB52CC4-1394-4CBE-923E-6B42E1CC3611}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AiPresets\Source\AiPresets\Private\AiPawnMaster_cpp.cpp">
+      <Filter>Plugins\AiPresets\Source\AiPresets\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AiPresets\Source\AiPresets\Private\AiPresets.cpp">
+      <Filter>Plugins\AiPresets\Source\AiPresets\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AiPresets\Source\AiPresets\Public">
+      <UniqueIdentifier>{31E389AE-6D62-46BF-8C80-ACC7D46B8F23}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AiPresets\Source\AiPresets\Public\AiPawnMaster_cpp.h">
+      <Filter>Plugins\AiPresets\Source\AiPresets\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AiPresets\Source\AiPresets\Public\AiPresets.h">
+      <Filter>Plugins\AiPresets\Source\AiPresets\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AiPresets\AiPresets.uplugin">
+      <Filter>Plugins\AiPresets</Filter>
+    </None>
+    <Filter Include="Plugins\AiPresets\Resources">
+      <UniqueIdentifier>{1664A473-D649-4195-A649-1F2A0BA26616}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AiPresets\Resources\Icon128.png">
+      <Filter>Plugins\AiPresets\Resources</Filter>
+    </None>
     <Filter Include="Source\GameMechanics">
-      <UniqueIdentifier>{E97AF7E5-E0A8-4D5D-8B79-9B7F51E825EB}</UniqueIdentifier>
+      <UniqueIdentifier>{A47CA2B8-2FB9-4CAC-B2A7-0B1738823A1E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameMechanics\GameMechanics.Build.cs">
       <Filter>Source\GameMechanics</Filter>
@@ -53,5 +95,15 @@
     <ClInclude Include="..\..\Source\GameMechanics\GameMechanicsGameMode.h">
       <Filter>Source\GameMechanics</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Plugins\AiPresets\Source\AiPresets\Public\AiMasterController_Cpp.h">
+      <Filter>Plugins\AiPresets\Source\AiPresets\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Plugins\AiPresets\Source\AiPresets\Private\AiMasterController_Cpp.cpp">
+      <Filter>Plugins\AiPresets\Source\AiPresets\Private</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

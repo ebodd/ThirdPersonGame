@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AiPresets.cpp.obj": [
+			"AiMasterController_Cpp.cpp.obj",
+			"AiPawnMaster_cpp.cpp.obj",
+			"AiPresets.cpp.obj"
+		],
+		"Module.AiPresets.gen.cpp.obj": [
+			"AiMasterController_Cpp.gen.cpp.obj",
+			"AiPawnMaster_cpp.gen.cpp.obj",
+			"AiPresets.init.gen.cpp.obj"
+		]
+	}
+}

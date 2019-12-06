@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\asus\Documents\GitHub\ThirdPersonGame).
+  Invalidating makefile for GameMechanicsEditor (AiPresets.Build.cs modified)
+  Parsing headers for GameMechanicsEditor
+    Running UnrealHeaderTool "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\GameMechanics.uproject" "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\GameMechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for GameMechanicsEditor in 7.1643047 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 2 actions with 8 processes...
+    [1/2] UE4Editor-AiPresets.dll
+       Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.suppressed.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.suppressed.exp
+    [2/2] GameMechanicsEditor.target
+  Total time in Parallel executor: 0.96 seconds
+  Total execution time: 10.39 seconds

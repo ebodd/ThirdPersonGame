@@ -766,3 +766,659 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.06-12.24.13:572][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
 [2019.12.06-12.24.13:586][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/SpaceShip2BE2722F4B755A9E1F04CFB616B7B2B6.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/SpaceShip.umap'
 [2019.12.06-12.24.13:589][847]LogFileHelpers: Saving map 'SpaceShip' took 0.048
+[2019.12.06-14.07.42:430][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-14.09.01:286][623]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.12.06-14.13.10:952][587]Running D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -TargetType=Editor -Plugin="C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\AiPresets.uplugin" -Project="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject" -Progress -NoHotReloadFromIDE
+[2019.12.06-14.13.12:377][587]Using 'git status' to determine working set for adaptive non-unity build (C:\Users\asus\Documents\GitHub\ThirdPersonGame).
+[2019.12.06-14.13.12:478][587]Creating makefile for GameMechanicsEditor (ini files are newer than makefile)
+[2019.12.06-14.13.13:483][587]@progress push 5%
+[2019.12.06-14.13.13:484][587]Parsing headers for GameMechanicsEditor
+[2019.12.06-14.13.13:484][587]  Running UnrealHeaderTool "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\GameMechanics.uproject" "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\GameMechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.06-14.13.37:751][587]Reflection code generated for GameMechanicsEditor in 24.2445439 seconds
+[2019.12.06-14.13.37:752][587]@progress pop
+[2019.12.06-14.13.38:456][587]Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.06-14.13.38:456][587]Building 5 actions with 8 processes...
+[2019.12.06-14.13.38:456][587]  @progress 'Compiling C++ source code...' 0%
+[2019.12.06-14.13.38:657][587]  @progress 'Compiling C++ source code...' 20%
+[2019.12.06-14.13.38:657][587]  [1/5] Default.rc2
+[2019.12.06-14.13.49:227][587]  @progress 'Compiling C++ source code...' 40%
+[2019.12.06-14.13.49:227][587]  [2/5] AiPresets.cpp
+[2019.12.06-14.13.49:730][587]  @progress 'Compiling C++ source code...' 60%
+[2019.12.06-14.13.49:730][587]  [3/5] UE4Editor-AiPresets.lib
+[2019.12.06-14.13.49:730][587]     Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.exp
+[2019.12.06-14.13.50:133][587]  @progress 'Compiling C++ source code...' 80%
+[2019.12.06-14.13.50:133][587]  [4/5] UE4Editor-AiPresets.dll
+[2019.12.06-14.13.50:133][587]     Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.suppressed.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.suppressed.exp
+[2019.12.06-14.13.50:434][587]  @progress 'Compiling C++ source code...' 100%
+[2019.12.06-14.13.50:434][587]  [5/5] GameMechanicsEditor.target
+[2019.12.06-14.13.50:434][587]Total time in Parallel executor: 11.98 seconds
+[2019.12.06-14.13.50:434][587]Total execution time: 39.36 seconds
+[2019.12.06-14.13.50:676][587]Running D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject" -game -rocket -progress
+[2019.12.06-14.13.51:089][587]Discovering modules, targets and source code for project...
+[2019.12.06-14.13.54:008][587]Binding IntelliSense data...
+[2019.12.06-14.13.56:429][587]Binding IntelliSense data... 100%
+[2019.12.06-14.13.56:430][587]Writing project files...
+[2019.12.06-14.14.00:861][587]Writing project files... 100%
+[2019.12.06-14.14.02:377][587]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/' took 0.02s
+[2019.12.06-14.14.02:377][587]LogBlueprintActionDatabase: Requesting refresh due to module change: AiPresets (loaded)
+[2019.12.06-14.14.02:434][587]LogSlate: Window 'New Plugin' being destroyed
+[2019.12.06-14.16.37:270][685]LogVSAccessor: Warning: Cannot add source file 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/AiPresets/Source/AiPresets/Public/AiPawnMaster_cpp.h' as it doesn't belong to a known module
+[2019.12.06-14.16.37:270][685]LogVSAccessor: Warning: Cannot add source file 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/AiPresets/Source/AiPresets/Private/AiPawnMaster_cpp.cpp' as it doesn't belong to a known module
+[2019.12.06-14.16.37:311][685]Running D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject" -game -rocket -progress
+[2019.12.06-14.16.37:719][685]Discovering modules, targets and source code for project...
+[2019.12.06-14.16.40:639][685]Binding IntelliSense data...
+[2019.12.06-14.16.42:858][685]Binding IntelliSense data... 100%
+[2019.12.06-14.16.42:858][685]Writing project files...
+[2019.12.06-14.16.46:586][685]Writing project files... 100%
+[2019.12.06-14.16.46:694][685]LogHotReload: Recompiling module AiPresets...
+[2019.12.06-14.16.46:701][685]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.16.46:702][685]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.12.06-14.16.46:705][685]Candidate modules for hot reload:
+[2019.12.06-14.16.46:705][685]  AiPresets
+[2019.12.06-14.16.46:706][685]Launching UnrealBuildTool... [D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AiPresets,9615 Win64 Development -TargetType=Editor -Project="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject" -FailIfGeneratedCodeChanges "C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject"  -IgnoreJunk]
+[2019.12.06-14.16.57:489][685]Using 'git status' to determine working set for adaptive non-unity build (C:\Users\asus\Documents\GitHub\ThirdPersonGame).
+Creating makefile for GameMechanicsEditor (no existing makefile)
+Parsing headers for GameMechanicsEditor
+  Running UnrealHeaderTool "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\GameMechanics.uproject" "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\GameMechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed -FailIfGeneratedCodeChanges
+ERROR: 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/AiPresets/Intermediate/Build/Win64/UE4Editor/Inc/AiPresets/AiPawnMaster_cpp.generated.h': Changes to generated code are not allowed - conflicts written to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/AiPresets/Intermediate/Build/Win64/UE4Editor/Inc/AiPresets/AiPawnMaster_cpp.generated.h.conflict'
+
+[2019.12.06-14.16.57:489][685]CompilerResultsLog: New page: Compilation - 7 Dec 2019 06:16:57
+[2019.12.06-14.16.57:489][685]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\asus\Documents\GitHub\ThirdPersonGame).
+[2019.12.06-14.16.57:489][685]CompilerResultsLog: Creating makefile for GameMechanicsEditor (no existing makefile)
+[2019.12.06-14.16.57:489][685]CompilerResultsLog: Parsing headers for GameMechanicsEditor
+[2019.12.06-14.16.57:489][685]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\GameMechanics.uproject" "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\GameMechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed -FailIfGeneratedCodeChanges
+[2019.12.06-14.16.57:489][685]CompilerResultsLog: ERROR: 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/AiPresets/Intermediate/Build/Win64/UE4Editor/Inc/AiPresets/AiPawnMaster_cpp.generated.h': Changes to generated code are not allowed - conflicts written to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/AiPresets/Intermediate/Build/Win64/UE4Editor/Inc/AiPresets/AiPawnMaster_cpp.generated.h.conflict'
+[2019.12.06-14.16.57:489][685]LogMainFrame: MainFrame: Module compiling took 10.787 seconds
+[2019.12.06-14.17.14:438][685]LogSlate: Window 'Message' being destroyed
+[2019.12.06-14.17.14:443][685]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.12.06-14.17.17:795][883]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.17:796][883]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.12.06-14.17.17:798][883]Candidate modules for hot reload:
+[2019.12.06-14.17.17:799][883]  GameMechanics
+[2019.12.06-14.17.17:799][883]Launching UnrealBuildTool... [D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GameMechanics,4612 Win64 Development -TargetType=Editor -Project="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject" "C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject"  -IgnoreJunk]
+[2019.12.06-14.17.17:806][883]Warning: Starting HotReload took  0.0s.
+[2019.12.06-14.17.33:924][841]CompilerResultsLog: New page: Compilation - 7 Dec 2019 06:17:33
+[2019.12.06-14.17.33:924][841]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\asus\Documents\GitHub\ThirdPersonGame).
+[2019.12.06-14.17.33:924][841]CompilerResultsLog: Creating makefile for GameMechanicsEditor (no existing makefile)
+[2019.12.06-14.17.33:925][841]CompilerResultsLog: Parsing headers for GameMechanicsEditor
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\GameMechanics.uproject" "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\GameMechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.06-14.17.33:925][841]CompilerResultsLog: Reflection code generated for GameMechanicsEditor in 9.4191462 seconds
+[2019.12.06-14.17.33:925][841]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.06-14.17.33:925][841]CompilerResultsLog: Building 7 actions with 8 processes...
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [1/7] UE4Editor-GameMechanics-4612.lib
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:      Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-4612.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-4612.exp
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [2/7] UE4Editor-GameMechanics-4612.dll
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:      Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-4612.suppressed.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-4612.suppressed.exp
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [3/7] Module.AiPresets.cpp
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [4/7] Module.AiPresets.gen.cpp
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [5/7] UE4Editor-AiPresets-0001.lib
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:      Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets-0001.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets-0001.exp
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [6/7] UE4Editor-AiPresets-0001.dll
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:      Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets-0001.suppressed.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets-0001.suppressed.exp
+[2019.12.06-14.17.33:925][841]CompilerResultsLog:   [7/7] GameMechanicsEditor.target
+[2019.12.06-14.17.33:925][841]CompilerResultsLog: Total time in Parallel executor: 3.43 seconds
+[2019.12.06-14.17.33:925][841]CompilerResultsLog: Total execution time: 15.99 seconds
+[2019.12.06-14.17.33:925][841]LogMainFrame: MainFrame: Module compiling took 16.130 seconds
+[2019.12.06-14.17.34:025][841]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2019.12.06-14.17.34:026][841]LogBlueprintActionDatabase: Requesting refresh due to module change: GameMechanics (unloaded)
+[2019.12.06-14.17.34:061][841]LogBlueprintActionDatabase: Requesting refresh due to module change: GameMechanics (loaded)
+[2019.12.06-14.17.34:062][841]LogContentBrowser: Native class hierarchy updated for 'GameMechanics' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.12.06-14.17.34:066][841]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.06-14.17.34:248][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.06-14.17.34:248][841]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.12.06-14.17.34:268][841]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2735 classes and 663 folders.
+[2019.12.06-14.17.34:268][841]Display: HotReload took 16.5s.
+[2019.12.06-14.17.40:358][182]LogAssetEditorManager: Opening Asset editor for Class /Script/GameMechanics.GameMechanicsCharacter
+[2019.12.06-14.17.40:363][182]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:369][182]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:382][183]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:398][184]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:415][185]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:432][186]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:449][187]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:465][188]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:482][189]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:499][190]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:514][191]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:531][192]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:548][193]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:565][194]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:582][195]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:599][196]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:616][197]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:632][198]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:649][199]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:665][200]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:682][201]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:699][202]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:715][203]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:732][204]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:749][205]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:765][206]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:782][207]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:798][208]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:815][209]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:831][210]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:848][211]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:865][212]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:881][213]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:898][214]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:916][215]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:932][216]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:949][217]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:966][218]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:982][219]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.40:999][220]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:016][221]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:032][222]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:049][223]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:066][224]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:083][225]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:099][226]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:116][227]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:133][228]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:148][229]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:165][230]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:182][231]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:198][232]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:215][233]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:232][234]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:248][235]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:265][236]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:282][237]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:298][238]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:315][239]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:332][240]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:349][241]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:365][242]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:382][243]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:399][244]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:415][245]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:432][246]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:449][247]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:466][248]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:483][249]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:499][250]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:515][251]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:532][252]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:548][253]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:565][254]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:582][255]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:599][256]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:615][257]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:632][258]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:649][259]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:666][260]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:683][261]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:699][262]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:716][263]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:733][264]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:749][265]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:766][266]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:783][267]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:800][268]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:816][269]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:833][270]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:848][271]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:866][272]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:882][273]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:898][274]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:915][275]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:932][276]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:949][277]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:965][278]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:982][279]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.41:999][280]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:015][281]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:032][282]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:051][283]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:066][284]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:084][285]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:100][286]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:116][287]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:133][288]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:150][289]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:166][290]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:183][291]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:200][292]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:216][293]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:233][294]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:249][295]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:267][296]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:284][297]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:299][298]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:315][299]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:333][300]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:349][301]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:366][302]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:383][303]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:399][304]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:415][305]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:432][306]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:449][307]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:466][308]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:482][309]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:499][310]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:515][311]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:533][312]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:550][313]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:567][314]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:583][315]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:601][316]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.42:941][317]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.43:281][318]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.43:618][319]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.43:956][320]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.44:294][321]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.44:633][322]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.44:973][323]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.45:313][324]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.45:643][325]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.45:982][326]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.46:319][327]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.46:658][328]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.46:998][329]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.47:335][330]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.47:672][331]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.48:009][332]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.48:348][333]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.48:686][334]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.49:024][335]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.49:362][336]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.17.49:701][337]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.12.06-14.18.07:884][339]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.423 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.06-14.20.31:187][ 44]LogSlate: Window 'Plugins' being destroyed
+[2019.12.06-14.20.31:232][ 44]LogSlate: Window 'Plugins' being destroyed
+[2019.12.06-14.20.31:232][ 44]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.12.06-14.21.06:135][155]LogHotReload: New module detected: UE4Editor-GameMechanics-0002.dll
+[2019.12.06-14.21.07:156][159]LogHotReload: Starting Hot-Reload from IDE
+[2019.12.06-14.21.07:251][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.06-14.21.07:252][159]LogBlueprintActionDatabase: Requesting refresh due to module change: GameMechanics (unloaded)
+[2019.12.06-14.21.07:282][159]LogBlueprintActionDatabase: Requesting refresh due to module change: GameMechanics (loaded)
+[2019.12.06-14.21.07:283][159]LogContentBrowser: Native class hierarchy updated for 'GameMechanics' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.12.06-14.21.07:287][159]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.06-14.21.07:399][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.06-14.21.07:399][159]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.12.06-14.21.07:420][159]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2735 classes and 663 folders.
+[2019.12.06-14.21.07:423][159]Display: HotReload took  0.3s.
+[2019.12.06-14.21.40:251][795]LogSlate: Window 'Plugins' being destroyed
+[2019.12.06-14.21.40:258][795]LogSlate: Window 'Plugins' being destroyed
+[2019.12.06-14.21.40:258][795]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.12.06-14.21.40:258][795]LogDirectoryWatcher: A directory notification for 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Plugins/' was aborted.
+[2019.12.06-14.21.49:576][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.06-14.21.51:150][444]Candidate modules for hot reload:
+[2019.12.06-14.21.51:150][444]  GameMechanics
+[2019.12.06-14.21.51:150][444]Launching UnrealBuildTool... [D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GameMechanics,7402 Win64 Development -TargetType=Editor -Project="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject" "C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/GameMechanics.uproject"  -IgnoreJunk]
+[2019.12.06-14.21.51:156][444]Warning: Starting HotReload took  0.0s.
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: New page: Compilation - 7 Dec 2019 06:22:01
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\asus\Documents\GitHub\ThirdPersonGame).
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Parsing headers for GameMechanicsEditor
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\GameMechanics.uproject" "C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\GameMechanicsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Reflection code generated for GameMechanicsEditor in 8.114005 seconds
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog:   [1/3] UE4Editor-GameMechanics-7402.lib
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog:      Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-7402.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-7402.exp
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog:   [2/3] UE4Editor-GameMechanics-7402.dll
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog:      Creating library C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-7402.suppressed.lib and object C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\UE4Editor-GameMechanics-7402.suppressed.exp
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog:   [3/3] GameMechanicsEditor.target
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Total time in Parallel executor: 1.11 seconds
+[2019.12.06-14.22.01:933][ 89]CompilerResultsLog: Total execution time: 10.65 seconds
+[2019.12.06-14.22.01:933][ 89]LogMainFrame: MainFrame: Module compiling took 10.786 seconds
+[2019.12.06-14.22.01:986][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.06-14.22.01:986][ 89]LogBlueprintActionDatabase: Requesting refresh due to module change: GameMechanics (unloaded)
+[2019.12.06-14.22.02:013][ 89]LogBlueprintActionDatabase: Requesting refresh due to module change: GameMechanics (loaded)
+[2019.12.06-14.22.02:013][ 89]LogContentBrowser: Native class hierarchy updated for 'GameMechanics' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2019.12.06-14.22.02:017][ 89]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.06-14.22.02:095][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.06-14.22.02:096][ 89]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.12.06-14.22.02:117][ 89]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2735 classes and 663 folders.
+[2019.12.06-14.22.02:117][ 89]Display: HotReload took 11.0s.
+[2019.12.06-14.24.42:732][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2019.12.06-14.24.42:821][714]LogSlate: Window 'GameMechanics - Unreal Editor' being destroyed
+[2019.12.06-14.24.42:822][714]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.06-14.24.43:020][715]Cmd: QUIT_EDITOR
+[2019.12.06-14.24.43:297][715]LogExit: Preparing to exit.
+[2019.12.06-14.24.43:967][715]LogExit: Editor shut down
+[2019.12.06-14.24.43:968][715]LogExit: Transaction tracking system shut down
+[2019.12.06-14.24.44:340][715]LogExit: Object subsystem successfully closed.
+[2019.12.06-14.24.44:361][715]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.06-14.24.44:369][715]LogD3D11RHI: Shutdown
+[2019.12.06-14.24.44:369][715]LogD3D11RHI: CleanupD3DDevice
+[2019.12.06-14.24.44:369][715]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.06-14.24.44:369][715]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.06-14.24.44:369][715]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.06-14.24.44:369][715]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.06-14.24.44:369][715]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.06-14.24.44:369][715]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.06-14.24.44:557][715]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module GameMechanics (657)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module AiPresets (654)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (652)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.12.06-14.24.44:570][715]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.12.06-14.24.44:571][715]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.12.06-14.24.44:572][715]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.12.06-14.24.44:573][715]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.12.06-14.24.45:262][715]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.12.06-14.24.45:306][715]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.12.06-14.24.45:316][715]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.12.06-14.24.45:316][715]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.12.06-14.24.45:317][715]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.12.06-14.24.45:321][715]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.12.06-14.24.45:438][715]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.12.06-14.24.45:438][715]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.12.06-14.24.45:438][715]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.12.06-14.24.45:438][715]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.12.06-14.24.45:438][715]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.12.06-14.24.45:439][715]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.06-14.24.45:440][715]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.06-14.24.45:542][715]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.06-14.24.45:642][715]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.12.06-14.24.45:642][715]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.12.06-14.24.45:643][715]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.12.06-14.24.45:643][715]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.12.06-14.24.45:643][715]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.12.06-14.24.45:644][715]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.12.06-14.24.45:644][715]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.12.06-14.24.45:645][715]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.06-14.24.45:646][715]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.06-14.24.45:647][715]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.06-14.24.45:647][715]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.06-14.24.45:648][715]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.06-14.24.45:745][715]LogDerivedDataCache: Shutdown
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.06-14.24.45:745][715]LogXGEController: Cleaning working directory: C:/Users/asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.06-14.24.45:745][715]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.06-14.24.45:746][715]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.06-14.24.45:747][715]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.06-14.24.45:747][715]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.06-14.24.45:747][715]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.06-14.24.45:748][715]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.06-14.24.45:752][715]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.06-14.24.45:752][715]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.06-14.24.45:752][715]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.06-14.24.45:752][715]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.06-14.24.45:753][715]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.06-14.24.45:753][715]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.06-14.24.45:755][715]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.06-14.24.45:755][715]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.06-14.24.45:761][715]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.06-14.24.45:761][715]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.06-14.24.45:761][715]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD8ECDE47-453A-8365-AC27-CF9A2871A208%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=ad04ed614d6d2e5ba2698b98202ef9f9%7C836f324e4efd4077a65fdf143bf31a61%7C1f6f8e12-d96a-4a7a-b0ea-7e2ee275e948&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.06-14.24.45:783][715]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.06-14.24.45:784][715]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.06-14.24.45:786][715]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.06-14.24.45:793][715]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.06-14.24.45:794][715]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.06-14.24.45:795][715]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.06-14.24.45:805][715]LogExit: Exiting.
+[2019.12.06-14.24.45:814][715]Log file closed, 12/06/19 22:24:45

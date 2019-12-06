@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AiPresets.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Intermediate\Build\Win64\GameMechanicsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\Module.AiPresets.cpp.obj"
+"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\Module.AiPresets.gen.cpp.obj"
+"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\Default.rc2.res"
+/OUT:"C:\Users\asus\Documents\GitHub\ThirdPersonGame\GameMechanics\Plugins\AiPresets\Intermediate\Build\Win64\UE4Editor\Development\AiPresets\UE4Editor-AiPresets.lib"
+/INCLUDE:IMPLEMENT_MODULE_AiPresets
