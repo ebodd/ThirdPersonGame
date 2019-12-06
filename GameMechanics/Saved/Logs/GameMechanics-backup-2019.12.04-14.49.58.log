@@ -1,0 +1,1627 @@
+﻿Log file open, 12/04/19 22:29:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameMechanics
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365717
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 980M
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/asus/Documents/Ethan/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.04-14.29.22:009][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.04-14.29.22:010][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:010][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-14.29.22:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-14.29.22:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-14.29.22:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-14.29.22:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-14.29.22:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-14.29.22:024][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:024][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-14.29.22:025][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-14.29.22:026][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-14.29.22:027][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-14.29.22:028][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-14.29.22:028][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.04-14.29.22:098][  0]LogHAL: Display: Platform has ~ 32 GB [34292178944 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.04-14.29.22:098][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.04-14.29.22:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-14.29.22:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-14.29.22:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-14.29.22:100][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.04-14.29.22:110][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.04-14.29.22:110][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.04-14.29.22:110][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Config/Windows/Engine.ini]
+[2019.12.04-14.29.22:110][  0]LogInit: Computer: DESKTOP-7QA18AQ
+[2019.12.04-14.29.22:110][  0]LogInit: User: asus
+[2019.12.04-14.29.22:110][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.04-14.29.22:110][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.04-14.29.22:111][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.04-14.29.22:111][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.04-14.29.22:111][  0]LogMemory: Process Physical Memory: 97.20 MB used, 97.20 MB peak
+[2019.12.04-14.29.22:111][  0]LogMemory: Process Virtual Memory: 88.96 MB used, 88.96 MB peak
+[2019.12.04-14.29.22:111][  0]LogMemory: Physical Memory: 8108.32 MB used,  24595.25 MB free, 32703.57 MB total
+[2019.12.04-14.29.22:111][  0]LogMemory: Virtual Memory: 4642.33 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.12.04-14.29.22:336][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.04-14.29.22:336][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.04-14.29.22:337][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.04-14.29.22:769][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.04-14.29.22:871][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.04-14.29.22:871][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.04-14.29.25:713][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.04-14.29.25:713][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.04-14.29.25:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2019.12.04-14.29.25:780][  0]LogD3D11RHI:       8152/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.04-14.29.25:783][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.04-14.29.25:783][  0]LogD3D11RHI:       0/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.04-14.29.25:783][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.04-14.29.25:792][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.04-14.29.25:792][  0]LogD3D11RHI:     GPU DeviceId: 0x1617 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.04-14.29.25:792][  0]LogWindows: EnumDisplayDevices:
+[2019.12.04-14.29.25:792][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2019.12.04-14.29.25:793][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:1)
+[2019.12.04-14.29.25:793][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2019.12.04-14.29.25:793][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2019.12.04-14.29.25:793][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.04-14.29.25:793][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2019.12.04-14.29.25:793][  0]LogD3D11RHI:   Driver Version: 388.57 (internal:23.21.13.8857, unified:388.57)
+[2019.12.04-14.29.25:793][  0]LogD3D11RHI:      Driver Date: 12-4-2017
+[2019.12.04-14.29.25:794][  0]LogRHI: Texture pool is 5706 MB (70% of 8152 MB)
+[2019.12.04-14.29.25:826][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.04-14.29.25:831][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.04-14.29.25:831][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.04-14.29.25:831][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.04-14.29.25:839][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.04-14.29.26:580][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.04-14.29.26:611][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.04-14.29.26:641][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.04-14.29.26:672][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.04-14.29.26:706][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.04-14.29.26:737][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.04-14.29.26:767][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.04-14.29.26:800][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.04-14.29.26:822][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.04-14.29.26:947][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.04-14.29.26:965][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.04-14.29.27:084][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.04-14.29.27:085][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.04-14.29.27:137][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.04-14.29.27:137][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.04-14.29.27:184][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.04-14.29.27:215][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.04-14.29.27:243][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.04-14.29.27:297][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.04-14.29.27:367][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.04-14.29.27:367][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.04-14.29.27:368][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.04-14.29.27:476][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.04-14.29.27:837][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Intermediate/Shaders/WorkingDirectory/13672/).
+[2019.12.04-14.29.27:837][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/asus/AppData/Local/Temp/UnrealShaderWorkingDir/FE1C3EB34D86820082BEBCB487360AAE/'.
+[2019.12.04-14.29.27:839][  0]LogXGEController: Cleaning working directory: C:/Users/asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.04-14.29.27:839][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.04-14.29.27:839][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.04-14.29.27:839][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.04-14.29.30:519][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.04-14.29.30:831][  0]LogDerivedDataCache: Loaded boot cache 0.31s 75MB C:/Users/asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.04-14.29.30:831][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.04-14.29.30:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.04-14.29.30:831][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.04-14.29.30:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-14.29.30:831][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.04-14.29.30:856][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.04-14.29.30:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-14.29.30:857][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.04-14.29.30:869][  0]LogDerivedDataCache: Using Local data cache path C:/Users/asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.04-14.29.30:869][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.04-14.29.30:869][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.04-14.29.30:910][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.04-14.29.30:912][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.04-14.29.30:926][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.04-14.29.31:439][  0]LogAssetRegistry: FAssetRegistry took 0.0458 seconds to start up
+[2019.12.04-14.29.31:855][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-14.29.32:354][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.04-14.29.32:355][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.04-14.29.32:355][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.04-14.29.32:355][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.04-14.29.32:355][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.04-14.29.32:460][  0]LogNetVersion: GameMechanics 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3173583059)
+[2019.12.04-14.29.33:795][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.062541 seconds
+[2019.12.04-14.29.33:805][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.04-14.29.33:805][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.04-14.29.33:805][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.04-14.29.38:603][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.04-14.29.38:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.04-14.29.39:546][  0]SourceControl: Source control is disabled
+[2019.12.04-14.29.39:546][  0]SourceControl: Source control is disabled
+[2019.12.04-14.29.39:578][  0]SourceControl: Source control is disabled
+[2019.12.04-14.29.39:599][  0]SourceControl: Source control is disabled
+[2019.12.04-14.29.40:405][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.04-14.29.40:863][  0]LogOcInput: OculusInput pre-init called
+[2019.12.04-14.29.42:049][  0]LogEngine: Initializing Engine...
+[2019.12.04-14.29.42:053][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.04-14.29.42:054][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.04-14.29.42:536][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.04-14.29.42:599][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.04-14.29.42:681][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-14.29.42:768][  0]LogInit: FAudioDevice initialized.
+[2019.12.04-14.29.42:770][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.04-14.29.42:854][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.04-14.29.42:859][  0]LogInit: Texture streaming: Enabled
+[2019.12.04-14.29.42:944][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.04-14.29.43:020][  0]LogInit: Transaction tracking system initialized
+[2019.12.04-14.29.43:142][  0]BlueprintLog: New page: Editor Load
+[2019.12.04-14.29.43:678][  0]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.12.04-14.29.43:678][  0]LocalizationService: Localization service is disabled
+[2019.12.04-14.29.44:681][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.04-14.29.44:681][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.04-14.29.45:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/' took 0.12s
+[2019.12.04-14.29.45:737][  0]SourceControl: Source control is disabled
+[2019.12.04-14.29.45:739][  0]Cmd: MAP LOAD FILE="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.04-14.29.45:747][  0]LightingResults: New page: Lighting Build
+[2019.12.04-14.29.45:758][  0]MapCheck: New page: Map Check
+[2019.12.04-14.29.45:758][  0]LightingResults: New page: Lighting Build
+[2019.12.04-14.29.45:805][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.04-14.29.46:067][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.12.04-14.29.46:067][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.12.04-14.29.46:145][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.12.04-14.29.46:146][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.12.04-14.29.46:148][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.12.04-14.29.46:148][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.12.04-14.29.46:148][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.12.04-14.29.46:149][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.12.04-14.29.46:168][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.12.04-14.29.46:168][  0]LoadErrors: Failed to load /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.12.04-14.29.46:168][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.12.04-14.29.46:322][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-14.29.46:384][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-14.29.46:420][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.04-14.29.46:420][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-14.29.46:421][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2019.12.04-14.29.46:421][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.684
+[2019.12.04-14.29.46:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.29.46:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.29.46:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.29.46:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.29.46:692][  0]LogCollectionManager: Loaded 0 collections in 0.001037 seconds
+[2019.12.04-14.29.46:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Collections/' took 0.01s
+[2019.12.04-14.29.46:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Developers/asus/Collections/' took 0.01s
+[2019.12.04-14.29.46:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Collections/' took 0.01s
+[2019.12.04-14.29.46:755][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.04-14.29.46:771][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2734 classes and 661 folders.
+[2019.12.04-14.29.46:786][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.04-14.29.46:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.46:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.47:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.47:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.47:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-14.29.47:205][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.04-14.29.47:231][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.04-14.29.47:271][  0]LogSlate: Took 0.008267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.04-14.29.47:280][  0]LogSlate: Took 0.006855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.04-14.29.47:293][  0]LogSlate: Took 0.007361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.04-14.29.47:452][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-14.29.47:624][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.04-14.29.47:624][  0]LogLoad: (Engine Initialization) Total time: 30.60 seconds
+[2019.12.04-14.29.47:624][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.04-14.29.47:703][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.04-14.29.47:709][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.29.47:783][  0]LogSlate: Took 0.006771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-14.29.50:007][126]LogAssetRegistry: Asset discovery search completed in 18.5910 seconds
+[2019.12.04-14.29.50:011][126]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.04-14.29.50:011][126]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2019.12.04-14.29.53:718][139]LogSlate: Window 'Message Log' being destroyed
+[2019.12.04-14.29.53:723][139]LogSlate: Window 'Message Log' being destroyed
+[2019.12.04-14.32.43:863][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.33.05:611][269]LogTexture: Display: Building textures: T_GradientLaserSoft_M (AutoDXT, 1024X32)
+[2019.12.04-14.33.05:611][269]LogTexture: Display: Building textures: T_ShieldImpact_HexReaction_Hexes (AutoDXT, 1024X1024)
+[2019.12.04-14.33.05:611][269]LogTexture: Display: Building textures: T_Universal_Eyelashes_D (AutoDXT, 2048X2048)
+[2019.12.04-14.33.05:611][269]LogTexture: Display: Building textures: T_spiritplane_arcs (AutoDXT, 2048X2048)
+[2019.12.04-14.33.05:611][269]LogTexture: Display: Building textures: T_Belica_ArmHolo (AutoDXT, 1024X2048)
+[2019.12.04-14.33.05:611][269]LogTexture: Display: Building textures: T_AtmosphericCloudNoise04 (DXT1, 2048X2048)
+[2019.12.04-14.33.05:611][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle_Zero_Pose.Idle_Zero_Pose
+[2019.12.04-14.33.05:614][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle_Zero_Pose.Idle_Zero_Pose) using current/default (AnimCompress_PerTrackCompression_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.33.05:666][269]LogTexture: Display: Building textures: T_TestML_Mask (AutoDXT, 512X512)
+[2019.12.04-14.33.05:880][269]LogTexture: Display: Building textures: T_AtmosphericCloudNoise03 (BGRA8, 2048X2048)
+[2019.12.04-14.33.06:865][269]LogTexture: Display: Building textures: T_Belica_upperbody_skin00_N (BC5, 4096X4096)
+[2019.12.04-14.33.06:865][269]LogTexture: Display: Building textures: T_Belica_UpperBody_Decals (AutoDXT, 4096X4096)
+[2019.12.04-14.33.06:865][269]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK03 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.06:865][269]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01_N (BC5, 2048X2048)
+[2019.12.04-14.33.08:746][269]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK02 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.08:746][269]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK01 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.08:746][269]LogTexture: Display: Building textures: T_ML_FineLeather01_N (BC5, 2048X2048)
+[2019.12.04-14.33.08:746][269]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01 (AutoDXT, 2048X2048)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_Plastic_04_N (BC5, 2048X2048)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_Face_New_spec (AutoDXT, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_Face_RGB (AutoDXT, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_UpperBody_new_head_N (BC5, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Pore_Specular (AutoDXT, 1024X1024)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Pore_Normals2 (BC5, 1024X1024)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_ID_Belica_weapon_Decals (AutoDXT, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_MASK02 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_N (BC5, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_RGB (AutoDXT, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_MASK01 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Rubber_2_N (BC5, 2048X2048)
+[2019.12.04-14.33.17:813][269]LogTexture: Display: Building textures: T_Blue_Metal02 (AutoDXT, 2048X2048)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_upperbody_skin00_RGB (AutoDXT, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_N (BC5, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_BelicaScreen (AutoDXT, 1024X1024)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_LowerBody_Decals (AutoDXT, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Rough_Plastic_N (BC5, 2048X2048)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Blank_N (BC5, 128X128)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Lame_N (BC5, 1024X1024)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_Eye_D (AutoDXT, 2048X2048)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Black_Linear (AutoDXT, 32X32)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EyeOcclusion2 (G8, 512X512)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_7 (AutoDXT, 512X512)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Swirly_Noise (AutoDXT, 1024X1024)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_RGB (AutoDXT, 4096X4096)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EpicQuadPanorama_CC (RGBA16F, 7372X3686)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_DecalMask_Radial03 (G8, 512X512)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Sphere_EYE_NORMALS (BC5, 1024X1024)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EyeScleraBaseColor_Example_2 (AutoDXT, 2048X2048)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_2 (AutoDXT, 512X512)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Eye_Wet_Normal (BC5, 1024X1024)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EYE_NORMALS (BC5, 512X512)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Belica_Corona_D (AutoDXT, 2048X2048)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_EyeMidPlaneDisplacement_Example (RGBA16F, 1024X1024)
+[2019.12.04-14.33.33:765][269]LogTexture: Display: Building textures: T_Master_Mouth_1_RGB (AutoDXT, 2048X2048)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Hair_ID_01 (G8, 4096X4096)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Hair_grad_01 (G8, 4096X4096)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Hair_depth_01 (G8, 4096X4096)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Hair_D_01 (AutoDXT, 4096X4096)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Hair_Alpha_01 (G8, 4096X4096)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_SparrowHair_Flow (BGRA8, 1024X1024)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_HairClump02_Roots (G8, 2048X2048)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_HairClump02_ID (G8, 2048X2048)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_HairClump02_DyeMask (AutoDXT, 2048X2048)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_HairClump02_Depth (G8, 2048X2048)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_HairClump02_Alpha (G8, 2048X2048)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_gradient_stasis (AutoDXT, 256X256)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Caustics_2 (DXT1, 512X512)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_TeethAndTongue_N (BC5, 1024X1024)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_TeethAndTongue_D (AutoDXT, 1024X1024)
+[2019.12.04-14.33.47:684][269]LogTexture: Display: Building textures: T_Master_Mouth_1_N (BC5, 2048X2048)
+[2019.12.04-14.33.48:724][269]LogTexture: Display: Building textures: T_Master_Mouth_1_COLOR (AutoDXT, 2048X2048)
+[2019.12.04-14.33.53:792][269]LogTexture: Display: Building textures: T_Rough_Metal_N (BC5, 4096X4096)
+[2019.12.04-14.33.53:792][269]LogMaterial: Display: Missing cached shader map for material M_Mouth_Master, compiling. 
+[2019.12.04-14.33.54:156][269]LogMaterial: Display: Missing cached shader map for material M_EyelashMaster, compiling. 
+[2019.12.04-14.33.54:385][269]LogMaterial: Display: Missing cached shader map for material M_TacArmHoloMesh, compiling. 
+[2019.12.04-14.33.54:820][269]LogTexture: Display: Building textures: T_ML_FineLeather01 (AutoDXT, 2048X2048)
+[2019.12.04-14.33.58:044][269]LogTexture: Display: Building textures: T_Rough_Plastic_D (AutoDXT, 2048X2048)
+[2019.12.04-14.34.01:730][269]LogTexture: Display: Building textures: T_Rubber_LowContrast (AutoDXT, 2048X2048)
+[2019.12.04-14.34.05:265][269]LogTexture: Display: Building textures: T_hardmetal2_D (AutoDXT, 2048X2048)
+[2019.12.04-14.34.07:747][269]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody, compiling. 
+[2019.12.04-14.34.09:251][269]LogTexture: Display: Building textures: T_Belica_Face_D (AutoDXT, 4096X4096)
+[2019.12.04-14.34.19:784][269]LogMaterial: Display: Missing cached shader map for material M_Belica_New_Head, compiling. 
+[2019.12.04-14.34.19:960][269]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns, compiling. 
+[2019.12.04-14.34.20:176][269]LogTexture: Display: Building textures: T_Lame_D (AutoDXT, 1024X1024)
+[2019.12.04-14.34.22:180][269]LogTexture: Display: Building textures: T_Primer_Black_Metal2 (AutoDXT, 2048X2048)
+[2019.12.04-14.34.25:489][269]LogMaterial: Display: Missing cached shader map for material M_Belica_ArmComputer, compiling. 
+[2019.12.04-14.34.25:649][269]LogSkeletalMesh: Building Skeletal Mesh Belica...
+[2019.12.04-14.34.25:948][269]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Meshes/Belica.Belica
+[2019.12.04-14.34.25:953][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill
+[2019.12.04-14.34.25:956][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill) using current/default (AnimCompress_PerTrackCompression_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.26:183][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill
+[2019.12.04-14.34.26:184][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill) using current/default (AnimCompress_PerTrackCompression_46) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.26:398][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Circle_Right.Jog_Fwd_Circle_Right
+[2019.12.04-14.34.26:399][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Circle_Right.Jog_Fwd_Circle_Right) using current/default (AnimCompress_PerTrackCompression_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.26:661][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Circle_Left.Jog_Fwd_Circle_Left
+[2019.12.04-14.34.26:662][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Circle_Left.Jog_Fwd_Circle_Left) using current/default (AnimCompress_PerTrackCompression_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.26:920][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd.Jog_Fwd
+[2019.12.04-14.34.26:921][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd.Jog_Fwd) using current/default (AnimCompress_PerTrackCompression_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.27:163][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Start.Jump_Start
+[2019.12.04-14.34.27:163][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Start.Jump_Start) using current/default (AnimCompress_PerTrackCompression_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.27:247][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive
+[2019.12.04-14.34.27:252][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.27:541][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_PreLand.Jump_PreLand
+[2019.12.04-14.34.27:541][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_PreLand.Jump_PreLand) using current/default (AnimCompress_PerTrackCompression_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.27:600][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Apex.Jump_Apex
+[2019.12.04-14.34.27:601][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Apex.Jump_Apex) using current/default (AnimCompress_PerTrackCompression_63) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.27:684][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
+[2019.12.04-14.34.27:685][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop) using current/default (AnimCompress_PerTrackCompression_49) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.28:302][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+[2019.12.04-14.34.28:304][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Start.Jog_Fwd_Start) using current/default (AnimCompress_PerTrackCompression_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.28:916][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle_Relaxed.Idle_Relaxed
+[2019.12.04-14.34.28:921][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle_Relaxed.Idle_Relaxed) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.28:943][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart.LevelStart
+[2019.12.04-14.34.28:945][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart.LevelStart) using current/default (AnimCompress_PerTrackCompression_140) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:330][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU
+[2019.12.04-14.34.30:331][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:356][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD
+[2019.12.04-14.34.30:357][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:382][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC
+[2019.12.04-14.34.30:383][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:408][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBU.Idle_AO_RBU
+[2019.12.04-14.34.30:409][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBU.Idle_AO_RBU) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:434][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBD.Idle_AO_RBD
+[2019.12.04-14.34.30:435][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBD.Idle_AO_RBD) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:462][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBC.Idle_AO_RBC
+[2019.12.04-14.34.30:463][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBC.Idle_AO_RBC) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:492][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU
+[2019.12.04-14.34.30:493][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:523][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD
+[2019.12.04-14.34.30:523][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:547][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC
+[2019.12.04-14.34.30:548][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:576][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBU.Idle_AO_LBU
+[2019.12.04-14.34.30:577][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBU.Idle_AO_LBU) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:603][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBD.Idle_AO_LBD
+[2019.12.04-14.34.30:604][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBD.Idle_AO_LBD) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:630][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBC.Idle_AO_LBC
+[2019.12.04-14.34.30:631][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBC.Idle_AO_LBC) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:657][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU
+[2019.12.04-14.34.30:657][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:658][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Primary_Fire_Med.Primary_Fire_Med
+[2019.12.04-14.34.30:659][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Primary_Fire_Med.Primary_Fire_Med) using current/default (AnimCompress_PerTrackCompression_75) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.30:858][269]LogMaterial: Display: Missing cached shader map for material M_TearLine, compiling. 
+[2019.12.04-14.34.31:080][269]LogMaterial: Display: Missing cached shader map for material M_Eye_Occlusion, compiling. 
+[2019.12.04-14.34.31:160][269]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2019.12.04-14.34.31:346][269]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2019.12.04-14.34.31:555][269]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2019.12.04-14.34.31:747][269]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2019.12.04-14.34.31:930][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC
+[2019.12.04-14.34.31:930][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.31:958][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD
+[2019.12.04-14.34.31:958][269]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.34.32:010][269]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.32:032][269]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.32:034][269]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.32:060][269]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.32:075][269]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.32:267][269]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.32:602][270]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.34.47:657][158]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (15.068 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.04-14.35.30:021][690]LogSlate: Took 0.009008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.04-14.40.32:325][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.40.32:407][638]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-14.40.32:429][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.40.32:431][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-14.40.32:432][638]PIE: New page: PIE session: ThirdPersonExampleMap (5 Dec 2019 06:40:32)
+[2019.12.04-14.40.32:445][638]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.04-14.40.32:469][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022962s)
+[2019.12.04-14.40.32:470][638]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-14.40.32:471][638]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2019.12.04-14.40.32:471][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025560s)
+[2019.12.04-14.40.32:506][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.04-14.40.32:544][638]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-14.40.32:613][638]LogInit: FAudioDevice initialized.
+[2019.12.04-14.40.32:658][638]LogLoad: Game class is 'GameMechanicsGameMode'
+[2019.12.04-14.40.32:667][638]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.40.32:668][638]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.04-22.40.32
+[2019.12.04-14.40.32:682][638]LogWorld: Bringing up level for play took: 0.018142
+[2019.12.04-14.40.32:706][638]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.12.04-14.40.32:709][638]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.227
+[2019.12.04-14.40.32:710][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.40.34:759][755]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.12.04-14.40.46:591][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.40.46:593][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.40.46:628][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-14.40.46:629][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.40.46:668][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.40.46:675][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.04-14.40.46:703][465]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.04-14.40.52:935][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.41.20:112][456]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-14.41.20:120][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.04-14.41.23:661][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position  is deprecated; Please use PlayToFrame instead
+[2019.12.04-14.41.23:662][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position  is deprecated; Please use PlayToFrame instead
+[2019.12.04-14.41.23:662][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End  is deprecated; Please use GetEndTime instead
+[2019.12.04-14.41.23:699][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Play Dialogue with Sequence  is deprecated; Please use PlayToFrame instead
+[2019.12.04-14.41.23:699][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Play Dialogue with Sequence  is deprecated; Please use PlayToFrame instead
+[2019.12.04-14.41.23:699][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End generated from expanding Play Dialogue with Sequence  is deprecated; Please use GetEndTime instead
+[2019.12.04-14.41.23:721][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Is Interacted?  is deprecated; Please use PlayToFrame instead
+[2019.12.04-14.41.23:721][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Is Interacted?  is deprecated; Please use PlayToFrame instead
+[2019.12.04-14.41.23:721][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End generated from expanding Is Interacted?  is deprecated; Please use GetEndTime instead
+[2019.12.04-14.41.27:009][456]LogBlueprint: Warning: [Compiler BP_Mission_Component] [0729.99] Compile of BP_Mission_Component successful, but with 9 Warning(s) [in 4,398 ms] (/Game/AdvancedMissionSys/ProjectFiles/Blueprints/Player/BP_Mission_Component.BP_Mission_Component)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Line_2x500 (BGRA8, 2X500)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Circle (BGRA8, 512X512)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_SpaceBarIcon (BGRA8, 512X118)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Frame (BGRA8, 512X512)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Line_500x2 (BGRA8, 500X2)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Line_Left_500x2 (BGRA8, 500X2)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Mission2 (BGRA8, 476X214)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Skull (BGRA8, 500X500)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_CompassDynamic (AutoDXT, 696X20)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_ExclamationMark (BGRA8, 256X256)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_Minimap (AutoDXT, 1024X1024)
+[2019.12.04-14.41.27:247][456]LogTexture: Display: Building textures: T_ParticleWaves (AutoDXT, 512X512)
+[2019.12.04-14.41.27:384][456]LogMaterial: Display: Missing cached shader map for material M_MissionActorParticle2, compiling. 
+[2019.12.04-14.41.27:411][456]LogMaterial: Display: Missing cached shader map for material M_MissionActorParticle1, compiling. 
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_House (BGRA8, 32X29)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_Compass (BGRA8, 696X20)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_MarkerHexagon (BGRA8, 64X64)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_QuestionMark (BGRA8, 256X256)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_Line_Right_500x2 (BGRA8, 500X2)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_Mask_700x450 (BGRA8, 700X450)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_XP (BGRA8, 500X500)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_DynamicMarker (AutoDXT, 500X500)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_Castle (BGRA8, 36X34)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_Dolar (BGRA8, 500X500)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_Mission_Background (BGRA8, 550X70)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_UI_Square (AutoDXT, 512X512)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_ThickFrame (BGRA8, 512X512)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_SquareBar (BGRA8, 512X512)
+[2019.12.04-14.41.27:473][456]LogTexture: Display: Building textures: T_LevelBorder2 (BGRA8, 1024X1024)
+[2019.12.04-14.41.27:473][456]LogMaterial: Display: Missing cached shader map for material M_MissionActorParticle, compiling. 
+[2019.12.04-14.41.27:513][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/Death_3.Death_3
+[2019.12.04-14.41.27:513][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.27:526][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.12.04-14.41.27:526][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.27:541][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.12.04-14.41.27:541][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.27:565][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2019.12.04-14.41.27:565][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.27:603][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2019.12.04-14.41.27:603][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.27:685][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2019.12.04-14.41.27:685][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.27:715][456]LogMaterial: Display: Missing cached shader map for material M_MasterPBar, compiling. 
+[2019.12.04-14.41.27:744][456]LogMaterial: Display: Missing cached shader map for material M_MasterPBar, compiling. 
+[2019.12.04-14.41.27:762][456]LogMaterial: Display: Missing cached shader map for material M_MasterPBar, compiling. 
+[2019.12.04-14.41.27:785][456]LogMaterial: Display: Missing cached shader map for material M_MarkerMaster, compiling. 
+[2019.12.04-14.41.27:801][456]LogMaterial: Display: Missing cached shader map for material M_MarkerMaster, compiling. 
+[2019.12.04-14.41.27:835][456]LogStaticMesh: Building static mesh SM_Torus...
+[2019.12.04-14.41.27:986][456]LogStaticMesh: Built static mesh [0.15s] /Game/AdvancedMissionSys/ProjectFiles/Particles/SM_Torus.SM_Torus
+[2019.12.04-14.41.27:994][456]LogStaticMesh: Building static mesh SM_Cylinder...
+[2019.12.04-14.41.27:996][456]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedMissionSys/ProjectFiles/Particles/SM_Cylinder.SM_Cylinder
+[2019.12.04-14.41.28:005][456]LogMaterial: Display: Missing cached shader map for material M_MarkerMaster, compiling. 
+[2019.12.04-14.41.28:021][456]LogMaterial: Display: Missing cached shader map for material M_CompassDynamic, compiling. 
+[2019.12.04-14.41.28:047][456]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.12.04-14.41.28:127][456]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.12.04-14.41.28:197][456]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.04-14.41.28:280][456]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.04-14.41.28:287][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.12.04-14.41.28:287][456]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedMissionSys/Demo/UnrealEngine4/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.04-14.41.28:312][456]LogMaterial: Display: Missing cached shader map for material M_DynamicMarker, compiling. 
+[2019.12.04-14.41.28:347][456]LogMaterial: Display: Missing cached shader map for material M_MasterPBar, compiling. 
+[2019.12.04-14.41.28:657][456]LogTexture: Display: Building textures: T_particles (AutoDXT, 512X512)
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:705][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:706][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:706][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:706][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:706][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:707][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:707][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:707][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:709][456]LogClass: Warning: Enum '/Game/Particles_Wind_Control_System/Blueprints/Enumerations/P_Leaves_Enum.P_Leaves_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:711][456]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:712][456]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/RoboBars/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/AdvancedMissionSys/Demo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.12.04-14.41.28:815][456]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2019.12.04-14.41.30:483][456]LogSlate: Took 0.007439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.04-14.41.48:220][492]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-14.42.15:635][888]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Belica_Skeleton, removing AnimBP from actor.
+[2019.12.04-14.42.15:636][888]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Belica_Skeleton, removing AnimBP from actor.
+[2019.12.04-14.42.15:637][888]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Belica_Skeleton, removing AnimBP from actor.
+[2019.12.04-14.42.15:637][888]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Belica_Skeleton, removing AnimBP from actor.
+[2019.12.04-14.42.20:353][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_Belica_UE4_Demo_Eye_Iris (AutoDXT, 512X512)
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_EyeScleraBaseColor_Example_1B (AutoDXT, 2048X2048)
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_ML_SmoothTech_01_D (AutoDXT, 512X512)
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (AutoDXT, 4096X4096)
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK01 (AutoDXT, 4096X4096)
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (AutoDXT, 4096X4096)
+[2019.12.04-14.42.21:971][155]LogTexture: Display: Building textures: T_Belica_Hair_D (AutoDXT, 2048X2048)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_Upperbody_BiohazardMask (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_UnpleasentGrime_D (AutoDXT, 2048X2048)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_Lowerbody_BiohazardMask (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_UpperBody_N (BC5, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_Biohazard_MASK (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Working_Belica_Face_Diff_Biohazard (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_UpperBody_Decals_Flatblack (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK02 (AutoDXT, 4096X4096)
+[2019.12.04-14.42.33:998][155]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2019.12.04-14.42.34:203][155]LogMaterial: Display: Missing cached shader map for material M_Belica_ArmComputer_Biohazard, compiling. 
+[2019.12.04-14.42.34:358][155]LogSkeletalMesh: Building Skeletal Mesh Belica_Biohazard...
+[2019.12.04-14.42.34:658][155]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/Biohazard/Meshes/Belica_Biohazard.Belica_Biohazard
+[2019.12.04-14.42.48:182][155]LogTexture: Display: Building textures: T_ML_Gold_Metal01 (AutoDXT, 2048X2048)
+[2019.12.04-14.42.48:182][155]LogMaterial: Display: Missing cached shader map for material M_Belica_UpperBody_Biohazard, compiling. 
+[2019.12.04-14.42.48:351][155]LogMaterial: Display: Missing cached shader map for material M_Belica_Guns_Biohazard, compiling. 
+[2019.12.04-14.42.49:336][155]LogMaterial: Display: Missing cached shader map for material M_Belica_Head_Biohazard, compiling. 
+[2019.12.04-14.42.49:504][155]LogShaderCompilers: Display: Shaders left to compile 1050
+[2019.12.04-14.42.49:583][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.42.50:868][196]LogShaderCompilers: Display: Shaders left to compile 1040
+[2019.12.04-14.42.53:109][285]LogShaderCompilers: Display: Shaders left to compile 1030
+[2019.12.04-14.42.53:186][288]LogShaderCompilers: Display: Shaders left to compile 1020
+[2019.12.04-14.42.57:143][445]LogShaderCompilers: Display: Shaders left to compile 1010
+[2019.12.04-14.42.57:534][461]LogShaderCompilers: Display: Shaders left to compile 1000
+[2019.12.04-14.42.57:605][464]LogShaderCompilers: Display: Shaders left to compile 990
+[2019.12.04-14.42.58:399][496]LogShaderCompilers: Display: Shaders left to compile 980
+[2019.12.04-14.43.00:965][598]LogShaderCompilers: Display: Shaders left to compile 970
+[2019.12.04-14.43.02:156][647]LogShaderCompilers: Display: Shaders left to compile 960
+[2019.12.04-14.43.04:124][725]LogShaderCompilers: Display: Shaders left to compile 950
+[2019.12.04-14.43.04:708][749]LogShaderCompilers: Display: Shaders left to compile 940
+[2019.12.04-14.43.07:244][851]LogShaderCompilers: Display: Shaders left to compile 930
+[2019.12.04-14.43.07:644][867]LogShaderCompilers: Display: Shaders left to compile 920
+[2019.12.04-14.43.07:752][871]LogShaderCompilers: Display: Shaders left to compile 910
+[2019.12.04-14.43.08:125][886]LogShaderCompilers: Display: Shaders left to compile 900
+[2019.12.04-14.43.11:110][  7]LogShaderCompilers: Display: Shaders left to compile 890
+[2019.12.04-14.43.11:859][ 37]LogShaderCompilers: Display: Shaders left to compile 880
+[2019.12.04-14.43.12:896][ 79]LogShaderCompilers: Display: Shaders left to compile 870
+[2019.12.04-14.43.14:000][123]LogShaderCompilers: Display: Shaders left to compile 860
+[2019.12.04-14.43.16:073][206]LogShaderCompilers: Display: Shaders left to compile 850
+[2019.12.04-14.43.17:299][255]LogShaderCompilers: Display: Shaders left to compile 840
+[2019.12.04-14.43.17:400][259]LogShaderCompilers: Display: Shaders left to compile 830
+[2019.12.04-14.43.17:898][279]LogShaderCompilers: Display: Shaders left to compile 820
+[2019.12.04-14.43.20:986][442]LogShaderCompilers: Display: Shaders left to compile 810
+[2019.12.04-14.43.21:182][453]LogShaderCompilers: Display: Shaders left to compile 800
+[2019.12.04-14.43.22:183][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.43.22:642][514]LogShaderCompilers: Display: Shaders left to compile 790
+[2019.12.04-14.43.22:833][524]LogShaderCompilers: Display: Shaders left to compile 780
+[2019.12.04-14.43.24:452][596]LogShaderCompilers: Display: Shaders left to compile 770
+[2019.12.04-14.43.26:933][742]LogShaderCompilers: Display: Shaders left to compile 760
+[2019.12.04-14.43.28:101][811]LogShaderCompilers: Display: Shaders left to compile 750
+[2019.12.04-14.43.28:952][861]LogShaderCompilers: Display: Shaders left to compile 740
+[2019.12.04-14.43.29:825][906]LogShaderCompilers: Display: Shaders left to compile 730
+[2019.12.04-14.43.30:056][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.43.31:590][977]LogShaderCompilers: Display: Shaders left to compile 720
+[2019.12.04-14.43.32:314][ 20]LogShaderCompilers: Display: Shaders left to compile 710
+[2019.12.04-14.43.33:109][ 67]LogShaderCompilers: Display: Shaders left to compile 700
+[2019.12.04-14.43.35:144][188]LogShaderCompilers: Display: Shaders left to compile 690
+[2019.12.04-14.43.36:661][266]LogShaderCompilers: Display: Shaders left to compile 680
+[2019.12.04-14.43.36:710][268]LogShaderCompilers: Display: Shaders left to compile 670
+[2019.12.04-14.43.38:062][341]LogShaderCompilers: Display: Shaders left to compile 660
+[2019.12.04-14.43.38:350][358]LogShaderCompilers: Display: Shaders left to compile 650
+[2019.12.04-14.43.41:139][523]LogShaderCompilers: Display: Shaders left to compile 640
+[2019.12.04-14.43.41:140][523]LogShaderCompilers: Display: Shaders left to compile 630
+[2019.12.04-14.43.41:813][563]LogShaderCompilers: Display: Shaders left to compile 620
+[2019.12.04-14.43.43:041][636]LogShaderCompilers: Display: Shaders left to compile 610
+[2019.12.04-14.43.45:655][789]LogShaderCompilers: Display: Shaders left to compile 600
+[2019.12.04-14.43.45:688][791]LogShaderCompilers: Display: Shaders left to compile 590
+[2019.12.04-14.43.46:451][836]LogShaderCompilers: Display: Shaders left to compile 580
+[2019.12.04-14.43.48:187][938]LogShaderCompilers: Display: Shaders left to compile 570
+[2019.12.04-14.43.50:553][ 56]LogShaderCompilers: Display: Shaders left to compile 560
+[2019.12.04-14.43.52:279][134]LogShaderCompilers: Display: Shaders left to compile 550
+[2019.12.04-14.43.52:435][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.43.54:509][220]LogShaderCompilers: Display: Shaders left to compile 540
+[2019.12.04-14.43.55:396][255]LogShaderCompilers: Display: Shaders left to compile 530
+[2019.12.04-14.43.55:467][258]LogShaderCompilers: Display: Shaders left to compile 520
+[2019.12.04-14.43.57:969][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:970][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:971][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:973][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:975][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:977][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:980][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:981][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.57:983][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.58:002][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.43.58:765][408]LogShaderCompilers: Display: Shaders left to compile 510
+[2019.12.04-14.43.58:915][417]LogShaderCompilers: Display: Shaders left to compile 500
+[2019.12.04-14.43.59:270][438]LogShaderCompilers: Display: Shaders left to compile 490
+[2019.12.04-14.44.01:943][594]LogShaderCompilers: Display: Shaders left to compile 480
+[2019.12.04-14.44.02:985][656]LogShaderCompilers: Display: Shaders left to compile 470
+[2019.12.04-14.44.04:725][758]LogShaderCompilers: Display: Shaders left to compile 460
+[2019.12.04-14.44.05:178][785]LogShaderCompilers: Display: Shaders left to compile 450
+[2019.12.04-14.44.06:525][865]LogShaderCompilers: Display: Shaders left to compile 440
+[2019.12.04-14.44.08:618][989]LogShaderCompilers: Display: Shaders left to compile 430
+[2019.12.04-14.44.09:887][ 64]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.12.04-14.44.10:971][128]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.12.04-14.44.11:775][176]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.12.04-14.44.14:209][320]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.12.04-14.44.14:342][328]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.12.04-14.44.14:873][359]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.12.04-14.44.16:522][457]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.12.04-14.44.20:070][660]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.12.04-14.44.20:465][679]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.12.04-14.44.20:684][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.44.20:734][695]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-14.44.20:826][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.20:829][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.20:832][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.20:834][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.20:835][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.20:839][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:490][695]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2019.12.04-14.44.21:494][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:495][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:496][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:498][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:507][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:509][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:510][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:556][695]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.21:611][697]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.12.04-14.44.21:948][715]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.12.04-14.44.22:108][718]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/ThirdPersonCharacter2456685B4544CC5E18DB1F9989F6CA5B.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.04-14.44.23:034][772]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.12.04-14.44.23:325][784]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.12.04-14.44.24:351][845]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-14.44.24:368][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.44.24:368][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-14.44.24:369][845]PIE: New page: PIE session: ThirdPersonExampleMap (5 Dec 2019 06:44:24)
+[2019.12.04-14.44.24:369][845]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.04-14.44.24:387][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017832s)
+[2019.12.04-14.44.24:388][845]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-14.44.24:388][845]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.12.04-14.44.24:388][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019576s)
+[2019.12.04-14.44.24:436][845]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.12.04-14.44.24:468][845]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-14.44.24:535][845]LogInit: FAudioDevice initialized.
+[2019.12.04-14.44.24:574][845]LogLoad: Game class is 'GameMechanicsGameMode'
+[2019.12.04-14.44.24:576][845]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.24:578][845]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.44.24:579][845]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.04-22.44.24
+[2019.12.04-14.44.24:580][845]LogWorld: Bringing up level for play took: 0.005235
+[2019.12.04-14.44.24:593][845]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.343
+[2019.12.04-14.44.24:593][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.44.24:998][864]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.12.04-14.44.25:914][919]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.12.04-14.44.26:616][961]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.12.04-14.44.26:693][965]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.12.04-14.44.26:693][965]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.12.04-14.44.26:832][974]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.12.04-14.44.29:764][150]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.12.04-14.44.30:032][166]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.12.04-14.44.30:583][199]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.12.04-14.44.31:784][271]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.12.04-14.44.33:434][370]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.12.04-14.44.33:734][388]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.12.04-14.44.35:951][521]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.12.04-14.44.36:268][540]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.12.04-14.44.36:502][554]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.12.04-14.44.38:703][686]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.12.04-14.44.38:903][698]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.12.04-14.44.39:729][747]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.12.04-14.44.40:947][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.44.40:947][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.44.40:984][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-14.44.40:984][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.44.40:992][819]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.12.04-14.44.41:031][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.44.41:039][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.04-14.44.41:070][820]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.04-14.44.42:334][894]LogEditorViewport: Clicking on Actor (LMB): LtBelicaPlayerCharacter_C (LtBelicaPlayerCharacter)
+[2019.12.04-14.44.42:499][895]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.12.04-14.44.43:084][927]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.12.04-14.44.43:272][938]Cmd: DELETE
+[2019.12.04-14.44.43:272][938]Cmd: ACTOR DELETE
+[2019.12.04-14.44.43:291][938]LogEditorActor: Deleted Actor: LtBelicaPlayerCharacter_C
+[2019.12.04-14.44.43:355][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.04-14.44.43:356][938]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.12.04-14.44.43:694][959]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.12.04-14.44.44:077][982]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.12.04-14.44.46:324][115]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.12.04-14.44.46:604][131]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.12.04-14.44.47:039][157]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.12.04-14.44.47:424][180]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.04-14.44.48:349][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.44.49:756][319]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.04-14.44.50:224][347]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-14.44.50:710][376]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-14.44.50:909][388]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-14.44.52:657][489]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-14.44.57:009][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.04-14.44.57:318][745]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/ThirdPersonExampleMap_Auto13CA6309B40E5B3964CF85E9ACB75BD16.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.12.04-14.44.57:322][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.352
+[2019.12.04-14.44.57:322][745]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.352
+[2019.12.04-14.45.46:260][666]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelicaPlayerCharacter.LtBelicaPlayerCharacter
+[2019.12.04-14.45.46:658][666]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.46.20:335][676]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-14.46.20:356][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.46.20:356][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-14.46.20:357][676]PIE: New page: PIE session: ThirdPersonExampleMap (5 Dec 2019 06:46:20)
+[2019.12.04-14.46.20:357][676]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.04-14.46.20:370][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013643s)
+[2019.12.04-14.46.20:371][676]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.04-14.46.20:371][676]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2019.12.04-14.46.20:371][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014611s)
+[2019.12.04-14.46.20:416][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.04-14.46.20:441][676]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-14.46.20:493][676]LogInit: FAudioDevice initialized.
+[2019.12.04-14.46.20:521][676]LogLoad: Game class is 'GameMechanicsGameMode'
+[2019.12.04-14.46.20:525][676]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.46.20:527][676]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.04-22.46.20
+[2019.12.04-14.46.20:528][676]LogWorld: Bringing up level for play took: 0.005364
+[2019.12.04-14.46.20:543][676]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.393
+[2019.12.04-14.46.20:544][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.46.22:688][802]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.12.04-14.47.16:615][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.47.16:615][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.47.16:647][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-14.47.16:647][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.04-14.47.16:691][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-14.47.16:697][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.04-14.47.16:722][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.04-14.47.19:220][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-14.47.21:903][326]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2019.12.04-14.49.17:167][223]LogSlate: Window 'LtBelicaPlayerCharacter' being destroyed
+[2019.12.04-14.49.25:268][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-14.49.51:064][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.04-14.49.52:578][249]LogSlate: Window 'Save Content' being destroyed
+[2019.12.04-14.49.52:636][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.04-14.49.52:993][249]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/ThirdPersonExampleMap066C4EE74C6B436E27277F909C751764.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.04-14.49.53:067][249]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.470
+[2019.12.04-14.49.53:826][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.04-14.49.53:900][286]LogSlate: Window 'GameMechanics - Unreal Editor' being destroyed
+[2019.12.04-14.49.53:902][286]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.04-14.49.54:113][287]Cmd: QUIT_EDITOR
+[2019.12.04-14.49.54:823][287]LogExit: Preparing to exit.
+[2019.12.04-14.49.55:514][287]LogExit: Editor shut down
+[2019.12.04-14.49.55:515][287]LogExit: Transaction tracking system shut down
+[2019.12.04-14.49.56:104][287]LogExit: Object subsystem successfully closed.
+[2019.12.04-14.49.56:135][287]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.04-14.49.56:147][287]LogD3D11RHI: Shutdown
+[2019.12.04-14.49.56:147][287]LogD3D11RHI: CleanupD3DDevice
+[2019.12.04-14.49.56:149][287]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.04-14.49.56:149][287]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.04-14.49.56:149][287]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.04-14.49.56:149][287]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.04-14.49.56:149][287]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.04-14.49.56:149][287]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.04-14.49.56:338][287]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.04-14.49.56:380][287]LogModuleManager: Shutting down and abandoning module BlueprintGraph (652)
+[2019.12.04-14.49.56:380][287]LogModuleManager: Shutting down and abandoning module MeshBuilder (650)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.12.04-14.49.56:381][287]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.12.04-14.49.56:382][287]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.12.04-14.49.56:382][287]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.12.04-14.49.56:383][287]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.12.04-14.49.56:384][287]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.12.04-14.49.56:385][287]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.12.04-14.49.56:386][287]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.12.04-14.49.56:386][287]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.12.04-14.49.56:386][287]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.12.04-14.49.56:387][287]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.12.04-14.49.56:388][287]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.12.04-14.49.56:390][287]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.12.04-14.49.56:391][287]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.12.04-14.49.56:391][287]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.12.04-14.49.56:392][287]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.12.04-14.49.56:393][287]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.12.04-14.49.56:394][287]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.12.04-14.49.56:395][287]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.12.04-14.49.56:395][287]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.12.04-14.49.56:395][287]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.12.04-14.49.56:395][287]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.12.04-14.49.56:395][287]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.12.04-14.49.56:395][287]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.12.04-14.49.56:396][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.12.04-14.49.56:397][287]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.12.04-14.49.56:399][287]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.12.04-14.49.56:401][287]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.12.04-14.49.56:402][287]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.12.04-14.49.56:402][287]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.12.04-14.49.56:402][287]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.12.04-14.49.56:402][287]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.12.04-14.49.56:403][287]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.12.04-14.49.57:264][287]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.12.04-14.49.57:264][287]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.12.04-14.49.57:265][287]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.12.04-14.49.57:265][287]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.12.04-14.49.57:265][287]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.12.04-14.49.57:265][287]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.12.04-14.49.57:265][287]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.12.04-14.49.57:267][287]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.12.04-14.49.57:267][287]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.12.04-14.49.57:268][287]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.12.04-14.49.57:268][287]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.12.04-14.49.57:270][287]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.12.04-14.49.57:270][287]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.12.04-14.49.57:270][287]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.12.04-14.49.57:270][287]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.12.04-14.49.57:270][287]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.12.04-14.49.57:270][287]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.12.04-14.49.57:271][287]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.12.04-14.49.57:273][287]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.12.04-14.49.57:274][287]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.12.04-14.49.57:275][287]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.12.04-14.49.57:276][287]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.12.04-14.49.57:277][287]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.12.04-14.49.57:321][287]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.12.04-14.49.57:322][287]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.12.04-14.49.57:323][287]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.12.04-14.49.57:327][287]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.12.04-14.49.57:327][287]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.12.04-14.49.57:327][287]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.12.04-14.49.57:327][287]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.12.04-14.49.57:329][287]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.12.04-14.49.57:331][287]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.12.04-14.49.57:331][287]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.12.04-14.49.57:331][287]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.12.04-14.49.57:353][287]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.12.04-14.49.57:354][287]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.12.04-14.49.57:357][287]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.12.04-14.49.57:357][287]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.12.04-14.49.57:357][287]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.12.04-14.49.57:358][287]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.12.04-14.49.57:358][287]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.12.04-14.49.57:358][287]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.12.04-14.49.57:359][287]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.12.04-14.49.57:359][287]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.12.04-14.49.57:360][287]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.12.04-14.49.57:360][287]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.12.04-14.49.57:360][287]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.12.04-14.49.57:360][287]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.12.04-14.49.57:361][287]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.12.04-14.49.57:362][287]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.12.04-14.49.57:362][287]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.12.04-14.49.57:368][287]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.12.04-14.49.57:573][287]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.12.04-14.49.57:575][287]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.12.04-14.49.57:575][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.12.04-14.49.57:576][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.12.04-14.49.57:577][287]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.12.04-14.49.57:577][287]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.12.04-14.49.57:577][287]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.12.04-14.49.57:577][287]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.12.04-14.49.57:577][287]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.12.04-14.49.57:577][287]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.12.04-14.49.57:578][287]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.12.04-14.49.57:578][287]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.12.04-14.49.57:578][287]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.12.04-14.49.57:578][287]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.12.04-14.49.57:579][287]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.12.04-14.49.57:580][287]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.12.04-14.49.57:580][287]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.12.04-14.49.57:580][287]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.12.04-14.49.57:580][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.12.04-14.49.57:580][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.12.04-14.49.57:581][287]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.12.04-14.49.57:581][287]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.12.04-14.49.57:581][287]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.12.04-14.49.57:581][287]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.12.04-14.49.57:581][287]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.12.04-14.49.57:582][287]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.12.04-14.49.57:582][287]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.12.04-14.49.57:582][287]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.12.04-14.49.57:582][287]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.12.04-14.49.57:583][287]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.12.04-14.49.57:583][287]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.12.04-14.49.57:583][287]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.12.04-14.49.57:583][287]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.12.04-14.49.57:583][287]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.12.04-14.49.57:584][287]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.12.04-14.49.57:584][287]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.12.04-14.49.57:588][287]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.12.04-14.49.57:589][287]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.12.04-14.49.57:590][287]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.12.04-14.49.57:590][287]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.12.04-14.49.57:590][287]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.12.04-14.49.57:590][287]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.12.04-14.49.57:591][287]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.12.04-14.49.57:591][287]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.12.04-14.49.57:592][287]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.12.04-14.49.57:595][287]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.12.04-14.49.57:596][287]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.12.04-14.49.57:596][287]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.12.04-14.49.57:596][287]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.12.04-14.49.57:597][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.12.04-14.49.57:597][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.12.04-14.49.57:597][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.12.04-14.49.57:597][287]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.12.04-14.49.57:597][287]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.12.04-14.49.57:597][287]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module GameMechanics (296)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.04-14.49.57:600][287]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.04-14.49.57:701][287]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.04-14.49.57:803][287]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.04-14.49.57:803][287]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.04-14.49.57:803][287]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.04-14.49.57:804][287]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.04-14.49.57:804][287]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.04-14.49.57:804][287]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.04-14.49.57:804][287]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.04-14.49.57:804][287]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.04-14.49.57:804][287]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.12.04-14.49.57:805][287]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.12.04-14.49.57:805][287]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.12.04-14.49.57:805][287]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.12.04-14.49.57:805][287]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.12.04-14.49.57:807][287]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.12.04-14.49.57:809][287]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.12.04-14.49.57:810][287]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.12.04-14.49.57:811][287]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.12.04-14.49.57:811][287]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.12.04-14.49.57:813][287]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.12.04-14.49.57:816][287]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.12.04-14.49.57:816][287]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.12.04-14.49.57:816][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.12.04-14.49.57:817][287]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.12.04-14.49.57:817][287]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.12.04-14.49.57:817][287]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.12.04-14.49.57:817][287]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.12.04-14.49.57:818][287]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.12.04-14.49.57:818][287]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.12.04-14.49.57:818][287]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.12.04-14.49.57:819][287]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.12.04-14.49.57:819][287]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.12.04-14.49.57:819][287]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.12.04-14.49.57:819][287]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.04-14.49.57:820][287]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.04-14.49.57:821][287]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.04-14.49.57:821][287]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.04-14.49.57:824][287]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.04-14.49.57:825][287]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.04-14.49.57:827][287]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.04-14.49.57:828][287]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.04-14.49.57:828][287]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.04-14.49.57:828][287]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.04-14.49.57:828][287]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.04-14.49.57:828][287]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.04-14.49.57:833][287]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.04-14.49.57:833][287]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.04-14.49.57:837][287]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.04-14.49.57:838][287]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.04-14.49.57:838][287]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.04-14.49.57:838][287]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.04-14.49.57:838][287]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.04-14.49.57:838][287]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.04-14.49.57:838][287]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.04-14.49.57:839][287]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.04-14.49.57:839][287]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.04-14.49.57:839][287]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.04-14.49.57:839][287]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.04-14.49.57:839][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.04-14.49.57:840][287]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.04-14.49.57:842][287]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.04-14.49.57:842][287]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.04-14.49.57:842][287]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.04-14.49.57:871][287]LogDerivedDataCache: Shutdown
+[2019.12.04-14.49.57:872][287]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.04-14.49.57:872][287]LogXGEController: Cleaning working directory: C:/Users/asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.04-14.49.57:872][287]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.04-14.49.57:872][287]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.04-14.49.57:872][287]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.04-14.49.57:872][287]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.04-14.49.57:873][287]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.04-14.49.57:874][287]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.04-14.49.57:874][287]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.04-14.49.57:876][287]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.04-14.49.57:876][287]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.04-14.49.57:876][287]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.04-14.49.57:876][287]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.04-14.49.57:876][287]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.04-14.49.57:878][287]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.04-14.49.57:878][287]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.04-14.49.57:880][287]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.04-14.49.57:880][287]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.04-14.49.57:894][287]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.04-14.49.57:894][287]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.04-14.49.57:894][287]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.04-14.49.57:894][287]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.04-14.49.57:894][287]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.04-14.49.57:894][287]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.04-14.49.57:895][287]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.04-14.49.57:896][287]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.04-14.49.57:896][287]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.04-14.49.57:896][287]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.04-14.49.57:896][287]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.04-14.49.57:896][287]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.04-14.49.57:896][287]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.04-14.49.57:896][287]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.04-14.49.57:898][287]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.04-14.49.57:898][287]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.04-14.49.57:907][287]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.04-14.49.57:907][287]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.04-14.49.57:907][287]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5995ACEA-4544-10D6-BD53-A38577359A5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=ad04ed614d6d2e5ba2698b98202ef9f9%7C836f324e4efd4077a65fdf143bf31a61%7C1f6f8e12-d96a-4a7a-b0ea-7e2ee275e948&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.04-14.49.57:942][287]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.04-14.49.57:946][287]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.04-14.49.57:950][287]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.04-14.49.57:957][287]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.04-14.49.57:957][287]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.04-14.49.57:958][287]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.04-14.49.57:958][287]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.04-14.49.57:958][287]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.04-14.49.57:959][287]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.04-14.49.57:959][287]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.04-14.49.57:959][287]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.04-14.49.57:959][287]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.04-14.49.57:961][287]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.04-14.49.57:962][287]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.04-14.49.57:985][287]LogExit: Exiting.
+[2019.12.04-14.49.58:031][287]Log file closed, 12/04/19 22:49:58
