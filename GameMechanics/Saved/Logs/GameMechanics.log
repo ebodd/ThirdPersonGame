@@ -696,3 +696,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.06-12.08.55:261][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2019.12.06-12.08.55:475][934]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/ThirdPersonExampleMap4A0B1C60471EA225E2F372BBC6996365.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
 [2019.12.06-12.08.55:507][934]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.278
+[2019.12.06-12.15.36:447][ 75]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.12.06-12.15.36:497][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.06-12.15.36:497][ 75]LogMetaData: Removing '/Game/Levels/Lvl3_CommunalArea.SKEL_Lvl3_CommunalArea_C' ref from Metadata '/Game/Levels/NewWorld.PackageMetaData'
+[2019.12.06-12.15.36:497][ 75]LogMetaData: Removing '/Game/Levels/Lvl3_CommunalArea.Lvl3_CommunalArea_C' ref from Metadata '/Game/Levels/NewWorld.PackageMetaData'
+[2019.12.06-12.15.36:497][ 75]LogMetaData: Removing '/Game/Levels/Lvl3_CommunalArea.Lvl3_CommunalArea:PersistentLevel.Lvl3_CommunalArea.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/NewWorld.PackageMetaData'
+[2019.12.06-12.15.36:497][ 75]LogMetaData: Removing '/Game/Levels/Lvl3_CommunalArea.Lvl3_CommunalArea:PersistentLevel.Lvl3_CommunalArea.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/NewWorld.PackageMetaData'
+[2019.12.06-12.15.36:556][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.06-12.15.36:729][ 75]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl3_CommunalAreaE101CDBE4BDA3C218C7092872C8CC32A.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl3_CommunalArea.umap'
+[2019.12.06-12.15.36:732][ 75]LogFileHelpers: Saving map 'Lvl3_CommunalArea' took 0.213
+[2019.12.06-12.15.36:898][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.06-12.15.36:936][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.06-12.15.36:973][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.06-12.15.45:599][564]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.12.06-12.15.45:600][564]LogMetaData: Removing '/Game/Levels/Lvl1_DockingArea.SKEL_Lvl1_DockingArea_C' ref from Metadata '/Game/Levels/DockingAreaLvl1.PackageMetaData'
+[2019.12.06-12.15.45:600][564]LogMetaData: Removing '/Game/Levels/Lvl1_DockingArea.Lvl1_DockingArea_C' ref from Metadata '/Game/Levels/DockingAreaLvl1.PackageMetaData'
+[2019.12.06-12.15.45:600][564]LogMetaData: Removing '/Game/Levels/Lvl1_DockingArea.Lvl1_DockingArea:PersistentLevel.Lvl1_DockingArea.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/DockingAreaLvl1.PackageMetaData'
+[2019.12.06-12.15.45:600][564]LogMetaData: Removing '/Game/Levels/Lvl1_DockingArea.Lvl1_DockingArea:PersistentLevel.Lvl1_DockingArea.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/DockingAreaLvl1.PackageMetaData'
+[2019.12.06-12.15.45:671][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.06-12.15.45:793][564]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl1_DockingArea73EE5D774CF143C551E87A93E2DA34AB.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl1_DockingArea.umap'
+[2019.12.06-12.15.45:798][564]LogFileHelpers: Saving map 'Lvl1_DockingArea' took 0.179
+[2019.12.06-12.15.45:927][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.06-12.15.45:960][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.12.06-12.15.45:990][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.12.06-12.15.55:785][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.06-12.15.55:785][147]LogMetaData: Removing '/Game/Levels/Lvl2_BarracksArea.SKEL_Lvl2_BarracksArea_C' ref from Metadata '/Game/Levels/BarracksAreaLvl2.PackageMetaData'
+[2019.12.06-12.15.55:785][147]LogMetaData: Removing '/Game/Levels/Lvl2_BarracksArea.Lvl2_BarracksArea_C' ref from Metadata '/Game/Levels/BarracksAreaLvl2.PackageMetaData'
+[2019.12.06-12.15.55:785][147]LogMetaData: Removing '/Game/Levels/Lvl2_BarracksArea.Lvl2_BarracksArea:PersistentLevel.Lvl2_BarracksArea.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/BarracksAreaLvl2.PackageMetaData'
+[2019.12.06-12.15.55:785][147]LogMetaData: Removing '/Game/Levels/Lvl2_BarracksArea.Lvl2_BarracksArea:PersistentLevel.Lvl2_BarracksArea.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/BarracksAreaLvl2.PackageMetaData'
+[2019.12.06-12.15.55:837][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.06-12.15.55:979][147]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl2_BarracksAreaACAB7D834D1C407E7145C59A989C4142.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl2_BarracksArea.umap'
+[2019.12.06-12.15.55:983][147]LogFileHelpers: Saving map 'Lvl2_BarracksArea' took 0.177
+[2019.12.06-12.15.56:123][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.06-12.15.56:160][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.06-12.15.56:189][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.12.06-12.16.52:711][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.06-12.16.52:711][530]LogMetaData: Removing '/Game/Levels/Lvl4_RecreationalArea.SKEL_Lvl4_RecreationalArea_C' ref from Metadata '/Game/Levels/Lvl4_recRoom.PackageMetaData'
+[2019.12.06-12.16.52:711][530]LogMetaData: Removing '/Game/Levels/Lvl4_RecreationalArea.Lvl4_RecreationalArea_C' ref from Metadata '/Game/Levels/Lvl4_recRoom.PackageMetaData'
+[2019.12.06-12.16.52:711][530]LogMetaData: Removing '/Game/Levels/Lvl4_RecreationalArea.Lvl4_RecreationalArea:PersistentLevel.Lvl4_RecreationalArea.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/Lvl4_recRoom.PackageMetaData'
+[2019.12.06-12.16.52:712][530]LogMetaData: Removing '/Game/Levels/Lvl4_RecreationalArea.Lvl4_RecreationalArea:PersistentLevel.Lvl4_RecreationalArea.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/Lvl4_recRoom.PackageMetaData'
+[2019.12.06-12.16.52:775][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.06-12.16.52:970][530]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl4_RecreationalAreaA8E36E704E9FD688F8D0DCBE089BCA4F.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl4_RecreationalArea.umap'
+[2019.12.06-12.16.52:975][530]LogFileHelpers: Saving map 'Lvl4_RecreationalArea' took 0.241
+[2019.12.06-12.16.53:158][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.12.06-12.16.53:205][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.06-12.16.53:246][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.06-12.24.12:220][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.06-12.24.13:186][847]LogSlate: Window 'Save Content' being destroyed
+[2019.12.06-12.24.13:239][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.06-12.24.13:256][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl10_TestCentre8D7F75554DBA04C2088B389F0A2B7918.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl10_TestCentre.umap'
+[2019.12.06-12.24.13:260][847]LogFileHelpers: Saving map 'Lvl10_TestCentre' took 0.055
+[2019.12.06-12.24.13:297][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.06-12.24.13:312][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl5_LivingQuarters6FED0273476CE360E05D2CAFF55048E0.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl5_LivingQuarters.umap'
+[2019.12.06-12.24.13:316][847]LogFileHelpers: Saving map 'Lvl5_LivingQuarters' took 0.052
+[2019.12.06-12.24.13:354][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.06-12.24.13:370][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl6_PatientsRooms02F9E0164BB64BFBDEC8BFA032FB546A.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl6_PatientsRooms.umap'
+[2019.12.06-12.24.13:374][847]LogFileHelpers: Saving map 'Lvl6_PatientsRooms' took 0.050
+[2019.12.06-12.24.13:411][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.06-12.24.13:427][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl7_PatientsExtended324BEB83467C7183DFBD4BA719BF30F9.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl7_PatientsExtended.umap'
+[2019.12.06-12.24.13:430][847]LogFileHelpers: Saving map 'Lvl7_PatientsExtended' took 0.053
+[2019.12.06-12.24.13:463][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.06-12.24.13:479][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl8_ResearchLabsD80629B5440B63E7EB23F78D2FA70223.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl8_ResearchLabs.umap'
+[2019.12.06-12.24.13:483][847]LogFileHelpers: Saving map 'Lvl8_ResearchLabs' took 0.052
+[2019.12.06-12.24.13:486][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lvl9_Disposal" FILE="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl9_Disposal.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-12.24.13:520][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.06-12.24.13:536][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/Lvl9_Disposal838F7CA54CA0AC3918B37FBC473A73F9.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/Lvl9_Disposal.umap'
+[2019.12.06-12.24.13:539][847]LogFileHelpers: Saving map 'Lvl9_Disposal' took 0.053
+[2019.12.06-12.24.13:542][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/SpaceShip" FILE="C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/SpaceShip.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-12.24.13:572][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.12.06-12.24.13:586][847]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Saved/SpaceShip2BE2722F4B755A9E1F04CFB616B7B2B6.tmp' to 'C:/Users/asus/Documents/GitHub/ThirdPersonGame/GameMechanics/Content/Levels/SpaceShip.umap'
+[2019.12.06-12.24.13:589][847]LogFileHelpers: Saving map 'SpaceShip' took 0.048
